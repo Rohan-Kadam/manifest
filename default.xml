@@ -1,0 +1,18 @@
+<manifest>
+	<remote name="origin" fetch="https://github.com/"/>
+	<project path="5G_Core"
+		 remote="origin"
+		 name="KapilGokhale/5GCore.git"
+		 revision="master"
+		 />
+	<project path="WLANController"
+		 remote="origin"
+		 name="Rohan-Kadam/WLANController.git"
+		 revision="master"
+		 />
+	<project path="utility_library"
+		 remote="origin"
+		 name="KapilGokhale/utility_library.git"
+		 revision="master"
+		 />
+</manifest>
