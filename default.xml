@@ -25,4 +25,9 @@
 		 name="Rohan-Kadam/5G-N3IWF.git"
 		 revision="master"
 		/>
+	<project path="5G-UE"
+		 remote="origin"
+		 name="riteshx95/5G-UE.git"
+		 revision="master"
+		/>
 </manifest>
