@@ -5,7 +5,7 @@
 		 name="Rohan-Kadam/WLANController.git"
 		 revision="master"
 		 />
-	<project path="5G_Core"
+	<project path="5GCore"
 		 remote="origin"
 		 name="KapilGokhale/5GCore.git"
 		 revision="master"
@@ -30,4 +30,9 @@
 		 name="riteshx95/5G-UE.git"
 		 revision="master"
 		/>
+	<project path="Data-Plane"
+		 remote="origin"
+		 name="tejashri-G/Data-Plane.git"
+		 revision="master"
+		 />
 </manifest>
