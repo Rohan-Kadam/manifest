@@ -27,7 +27,7 @@
 		/>
 	<project path="5G-UE"
 		 remote="origin"
-		 name="riteshx95/5G-UE.git"
+		 name="Rohan-Kadam/5G-UE.git"
 		 revision="master"
 		/>
 	<project path="Data-Plane"
