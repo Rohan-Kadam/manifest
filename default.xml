@@ -30,9 +30,4 @@
 		 name="Rohan-Kadam/5G-UE.git"
 		 revision="master"
 		/>
-	<project path="Data-Plane"
-		 remote="origin"
-		 name="tejashri-G/Data-Plane.git"
-		 revision="master"
-		 />
 </manifest>
