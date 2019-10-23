@@ -30,4 +30,9 @@
 		 name="Rohan-Kadam/5G-UE.git"
 		 revision="master"
 		/>
+	<project path="MultiRAT_5GCore"
+		 remote="origin"
+		 name="Rohan-Kadam/MultiRAT_5GCore.git"
+		 revision="master"
+		/>	
 </manifest>
