@@ -1,11 +1,11 @@
 <manifest>
 	<remote name="origin" fetch="https://github.com/"/>
-	<project path="5G-N3IWF"
+	<project path="N3IWF"
 		 remote="origin"
 		 name="Rohan-Kadam/5G-N3IWF.git"
 		 revision="master"
 		/>
-	<project path="5G-UE"
+	<project path="UE"
 		 remote="origin"
 		 name="Rohan-Kadam/5G-UE.git"
 		 revision="master"
