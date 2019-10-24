@@ -3,7 +3,7 @@
 	<project path="N3IWF"
 		 remote="origin"
 		 name="Rohan-Kadam/5G-N3IWF.git"
-		 revision="master"
+		 revision="develop"
 		/>
 	<project path="UE"
 		 remote="origin"
