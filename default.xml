@@ -1,25 +1,5 @@
 <manifest>
 	<remote name="origin" fetch="https://github.com/"/>
-	<project path="WLANController"
-		 remote="origin"
-		 name="Rohan-Kadam/WLANController.git"
-		 revision="master"
-		 />
-	<project path="5GCore"
-		 remote="origin"
-		 name="KapilGokhale/5GCore.git"
-		 revision="master"
-		 />
-	<project path="RAN_EMU"
-		 remote="origin"
-		 name="KapilGokhale/Ran_Emulator.git"
-		 revision="master"
-		 />
-	<project path="utility_library"
-		 remote="origin"
-		 name="KapilGokhale/utility_library.git"
-		 revision="master"
-		/>
 	<project path="5G-N3IWF"
 		 remote="origin"
 		 name="Rohan-Kadam/5G-N3IWF.git"
