@@ -8,7 +8,7 @@
 	<project path="UE"
 		 remote="origin"
 		 name="Rohan-Kadam/5G-UE.git"
-		 revision="master"
+		 revision="develop"
 		/>
 	<project path="MultiRAT_5GCore"
 		 remote="origin"
